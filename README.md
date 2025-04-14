@@ -1,5 +1,8 @@
 # PixelShift - An Opinionated Wallpaper Switcher for macOS
 
+# Update
+_In macOS 14, Apple added a quick switch in wallpaper setting_
+
 [**DOWNLOAD**](https://github.com/chang2000/pixelshift-release/releases/latest)
 
 [**DEMO**](https://youtu.be/BSyzNuu0eMU)
